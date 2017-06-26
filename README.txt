@@ -1,1 +1,1 @@
-Questo è un progetto di esempio di configurazione di git
+Questo è un progetto di esempio di configurazione di git (modifica)
